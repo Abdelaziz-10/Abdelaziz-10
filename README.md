@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdelaziz-10
+- 👋 Hi, I’m @Abdelaziz Ait Lahcen
 - 👀 I’m interested in IT Development .Net
 - 🌱 I’m currently learning .NET MAUI
 - 💞️ I’m looking to collaborate on ...
